@@ -160,7 +160,7 @@ count(3);
 
 
 ## Independent Practice
-Refine the skills covered in this workshop with this [training](https://github.com/sf-wdi-31/dev-tools-training)
+Refine the skills covered in this workshop with this [training](https://github.com/sf-wdi-37/dev-tools-training)
 
 
 ## Additional Resources
